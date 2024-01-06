@@ -1,2 +1,2 @@
 This is first line of first text file 1
-This is second line 
+This is second line of main branch
